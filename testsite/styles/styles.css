@@ -1,0 +1,32 @@
+html {
+  font-size: 10px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-family: placeholder:Cabin;
+  background-color: #080606e5;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 3px 3px 1px black;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: white;
+}
+
+p, li, a {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: white;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+body {
+  width: 900px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
